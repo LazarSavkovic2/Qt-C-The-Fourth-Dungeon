@@ -1,0 +1,9 @@
+{
+    "cmake.configureSettings": {
+        "CMAKE_PREFIX_PATH": "C:/Qt/6.11.2/mingw_64",
+        "ENABLE_FEATURE": "1",
+        "ENABLE_OTHER_FEATURE": "0"
+    },
+    "cmake.options.statusBarVisibility": "visible",
+    "cmake.buildDirectory": "${workspaceFolder}/builds/${buildKit}/${buildType}"
+}
